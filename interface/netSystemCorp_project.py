@@ -1,25 +1,8 @@
-# grid manager
-# from interface_firstWindow import main_window as janelaPrincipal
 from tkinter import *  # Importa toda biblioteca do Tkinter
 from tkinter import ttk
 import tkinter.messagebox as tkMessagebox
 from PIL import ImageTk, Image
 import sqlite3
-
-#
-# ----------------------------------------------------
-# CLASSE
-##### SESSÃO MODULO ATUALIZAR #####
-# ====================================================
-
-# CLASSE REFERENTE A JANELA ATUALIZAÇÃO DE FUNCAO
-
-##### SESSÃO MODULO DE CADASTRO #####
-# ====================================================
-
-# CLASSE REFERENTE A JANELA CADASTRO DE FUNCAO
-# VARIAVEIS
-aviso = 0
 
 
 # CLASSE REFERENTE A JANELA DE CONSULTA
